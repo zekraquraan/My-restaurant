@@ -1,2 +1,2 @@
 # My-restaurant
-![wireframe](Untitled.jpg)
+![wireframe](https://miro.com/app/board/uXjVPlZuDPI=/)
